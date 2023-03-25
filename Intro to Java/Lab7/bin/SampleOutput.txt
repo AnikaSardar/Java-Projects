@@ -1,0 +1,5 @@
+Name : Joanne Smith     Average score: 90.75    Grade: A
+Name : Will Jones       Average score: 83.75    Grade: B
+Name : Kerry McDonald   Average score: 84.0     Grade: B
+Name : Sam Young        Average score: 79.5     Grade: C
+Name : Jill Barnes      Average score: 94.0     Grade: A

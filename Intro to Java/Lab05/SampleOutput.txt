@@ -1,0 +1,22 @@
+Patient name: Jenny Elaine Santori
+Address: 123 Main Street
+City: MyTown
+State: CA
+ZIP: 01234
+Emergency Contact: Bill Santori 777-555-1212
+
+Procedure: Physical Exam
+Procedure Date: 7/20/2019
+Practitioner: Dr. Irvine
+Procedure Charge: 250.0
+
+Procedure: X-ray
+Procedure Date: 7/20/2019
+Practitioner: Dr. Jamison
+Procedure Charge: 500.0
+
+Procedure: Blood Test
+Procedure Date: 7/20/2019
+Practitioner: Dr. Smith
+Procedure Charge: 200.0
+
